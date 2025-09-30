@@ -1,5 +1,5 @@
-# PCD
-Pengolahan Citra Digital (PCD) Assignment
-
-1.Image Downsampling dan Upsampling \\
-2.Image Convolution
+Pengolahan Citra Digital (PCD) Assignment <br>
+1. Image Downsampling dan Upsampling <br>
+2. Image Convolution <br>
+3. ...<br>
+4. ...
